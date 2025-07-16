@@ -3,7 +3,7 @@
 A simple HTML/CSS/JS app that validates user input in a registration form. Built to showcase form validation logic and manual QA test cases.
 
 ## 🚀 Live Demo
-[👉 View on Netlify](https://your-netlify-link.netlify.app)
+[👉 View Form](formground.netlify.app)
 
 ## 📁 Features
 - Validates:
