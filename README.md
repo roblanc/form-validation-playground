@@ -3,7 +3,7 @@
 A simple HTML/CSS/JS app that validates user input in a registration form. Built to showcase form validation logic and manual QA test cases.
 
 ## 🚀 Live Demo
-[👉 Try It Out (https://formground.netlify.app)]
+[👉 Try It Out ](https://formground.netlify.app)
 
 ## 📁 Features
 - Validates:
@@ -24,4 +24,4 @@ See [`TEST-CASES.md`](./TEST-CASES.md)
 - Vanilla JavaScript
 
 ## 👨‍💻 Author
-Robert-Daniel Dumitriu – [GitHub](https://github.com/yourusername)
+Robert-Daniel Dumitriu – [GitHub](https://github.com/roblanc)
